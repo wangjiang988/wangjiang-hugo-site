@@ -1,8 +1,4 @@
-[submodule "wangjiang988.github.io"]
+[submodule "public"]
 	path = public
-	url = https://github.com/wangjiang988/wangjiang988.github.io.git
-	branch = main
-[submodule "public/public"]
-	path = public/public
 	url = https://github.com/wangjiang988/wangjiang988.github.io.git
 	branch = main
