@@ -25,6 +25,10 @@ https://themes.gohugo.io/themes/hugo-theme-cleanwhite/
 新增category 需要重新运行hugo server命令
 
 ### 更新到github
+
 访问地址 blog.easycodeforu.com
 
+
+rm -rf public
+git submodule add -b main https://github.com/wangjiang988/wangjiang988.github.io.git public
 
