@@ -37,6 +37,8 @@ git submodule add -b main https://github.com/wangjiang988/wangjiang988.github.io
 `如果加错了 删除.git/modules文件夹`
 
 
+### 本地调试
 
+hugo serve -t  hugo-theme-cleanwhite
 
 
