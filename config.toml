@@ -1,4 +1,4 @@
-baseurl = "https://easycodeforu.com"
+baseurl = "https://blog.easycodeforu.com"
 title = "WangJiang Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
