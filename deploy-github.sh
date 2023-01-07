@@ -20,7 +20,7 @@ git commit -m "$msg"
 
 git pull
 # Push source and build repos.
-git push origin main
+git push github main
 
 # Come Back up to the Project Root
 cd ..
