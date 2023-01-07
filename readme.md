@@ -29,6 +29,14 @@ https://themes.gohugo.io/themes/hugo-theme-cleanwhite/
 访问地址 blog.easycodeforu.com
 
 
+
+
 rm -rf public
 git submodule add -b main https://github.com/wangjiang988/wangjiang988.github.io.git public
+
+`如果加错了 删除.git/modules文件夹`
+
+
+
+
 
