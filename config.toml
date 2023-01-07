@@ -1,5 +1,5 @@
 baseurl = "https://blog.easycodeforu.com"
-title = "WangJiang Blog"
+title = "WangJiang's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,9 +15,9 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/home-bg-jeep.jpg"
 #  header_image = "img/bg/goto-somewhere.png"
-  SEOTitle = "王将的博客 | WangJiang Blog"
+  SEOTitle = "王将的博客 | WangJiang's Blog"
   description = "王将，程序员, 写作爱好者，生活探险家 | 这里是 王将 的博客，与你一起发现更大的世界。"
-  keyword = "王将, WangJiang, WangJiang, , 王将的网络日志, 王将的博客, WangJiang Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  keyword = "王将, WangJiang, WangJiang, , 王将的网络日志, 王将的博客, WangJiang's Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
   slogan = "路在脚下，心向远方"
 
   image_404 = "img/404-bg.jpg"
@@ -78,7 +78,7 @@ home = ["HTML", "RSS", "Algolia"]
   stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   github         = "https://github.com/wangjiang988"
-  wechat         = "/img/wechat_qrcode.png"
+  wechat         = "img/wechat_qrcode.png"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
   #pinterest     = "full profile url in pinterest"
