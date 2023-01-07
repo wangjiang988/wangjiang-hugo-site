@@ -18,9 +18,11 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git pull
+git pull github main
 # Push source and build repos.
 git push github main
 
 # Come Back up to the Project Root
 cd ..
+
+git push github main

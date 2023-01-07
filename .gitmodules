@@ -1,4 +1,4 @@
 [submodule "wangjiang988.github.io"]
-	path = wangjiang988.github.io
+	path = public
 	url = https://github.com/wangjiang988/wangjiang988.github.io.git
 	branch = main
