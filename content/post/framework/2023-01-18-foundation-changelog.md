@@ -10,7 +10,7 @@ tags:
     - foundation
     - work
     - framework
-URL: "/2023/01/07/foundation-params-parse-design/"
+URL: "/2023/01/07/foundation-changelog/"
 categories: [ Framework ]
 ---
 
