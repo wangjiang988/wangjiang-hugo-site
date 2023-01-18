@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "foundation-framework"
+title:      "foundation-framework的模块设计，版本记录及修改历史"
 subtitle:   "foundation框架的设计和修改历史"
-description: "foundation框架的参数化设计, 如接口请求时，如何自动解析参数，定义参数规则等..."
+description: "foundation框架的参数化设计,修改历史..."
 date:    2023-01-07
 author:     "王将"
 image: "/img/istio-install_and_example/post-bg.jpg"
