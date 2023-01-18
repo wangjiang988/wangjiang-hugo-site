@@ -42,3 +42,8 @@ git submodule add -b main https://github.com/wangjiang988/wangjiang988.github.io
 hugo serve -t  hugo-theme-cleanwhite
 
 
+### 访问
+
+blog.easycodeforu.com
+
+
