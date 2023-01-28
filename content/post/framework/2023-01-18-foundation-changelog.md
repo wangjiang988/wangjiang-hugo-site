@@ -41,3 +41,16 @@ categories: [ Framework ]
 7. foundation-mybatis-domain-starter  （foundation-mybatis-starter弃用）  
     domain-starter mybatis 接入
 
+### 1.0.1
+
+feat：
+
+1. oauth2.0 部分
+    添加web页面
+    加上rememberme功能合并  
+    新增ldap功能，同步ldap用户
+    添加用户中心，应用中心功能
+
+2. 去掉foundation-mybatis-starter
+
+
