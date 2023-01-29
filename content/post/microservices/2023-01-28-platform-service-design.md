@@ -20,7 +20,7 @@ categories: [ Microservice ]
 
 ## 版本迭代
 
-### 1.0版本主要功能
+### 1.0.0
 
 基于foundation 框架 1.0.1-snapshot开发
 
@@ -28,9 +28,15 @@ categories: [ Microservice ]
    
     1. swagger http://localhost:8080/swagger-ui/index.html
     2. flyway
-    3. jwt
+    3. jwt (自动登录走/login，username,password登录)
 
 用户管理
+    curd
+    导入导出   todo
 
+#### 1.0.1
+
+1. 支持单点登录
+2.
 
 
