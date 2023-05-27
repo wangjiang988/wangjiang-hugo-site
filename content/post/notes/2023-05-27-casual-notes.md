@@ -7,9 +7,8 @@ date:    2023-05-27
 author:     "王将"
 image: "/img/istio-install_and_example/post-bg.jpg"
 tags:
-    - foundation
-    - work
-    - framework
+    - 随笔
+    - 感悟
 URL: "/2023/05/23/casual-notes/"
 categories: [ notes ]
 ---
