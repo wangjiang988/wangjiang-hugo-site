@@ -27,4 +27,4 @@ cd ..
 git add .
 git commit -m "update site code..."
 git push origin main
-git push github main
+git push github main -f
