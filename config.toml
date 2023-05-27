@@ -1,4 +1,4 @@
-baseurl = "https://blog.easycodeforu.com"
+baseurl = "https://easycodeforu.com"
 title = "WangJiang's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -91,7 +91,7 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.friend_link]]
   title = "nobody的博客"
-  href =  "https://blog.easycodeforu.com"
+  href =  "https://easycodeforu.com"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"

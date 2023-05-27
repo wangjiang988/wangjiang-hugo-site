@@ -26,7 +26,7 @@ https://themes.gohugo.io/themes/hugo-theme-cleanwhite/
 
 ### 更新到github
 
-访问地址 blog.easycodeforu.com
+访问地址 easycodeforu.com
 
 
 
