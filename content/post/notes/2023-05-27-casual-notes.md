@@ -10,8 +10,8 @@ tags:
     - foundation
     - work
     - framework
-URL: "/2023/01/07/foundation-params-parse-design/"
-categories: [ Framework ]
+URL: "/2023/05/23/casual-notes/"
+categories: [ notes ]
 ---
 
 ## 2023-05-27 23:01:19
