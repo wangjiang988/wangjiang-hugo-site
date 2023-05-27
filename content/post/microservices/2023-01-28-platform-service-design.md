@@ -48,9 +48,6 @@ categories: [ Microservice ]
     view 对象属性
     constant 修改cloumns 字段,修改按钮权限
     
-    
-
-
 
 ### 1.0.0
 
@@ -67,11 +64,11 @@ categories: [ Microservice ]
     导入导出
 
 
-#### 1.0.1
+项目管理
 
-1. 支持单点登录
-2. 前后台系统管理
-
+代码路径: https://gitee.com/yuanhe-wuji/foundation-platform-v2.git
+项目文档： https://e.gitee.com/yuanhe-wuji/projects/486906/tasks/table
+知识库： https://e.gitee.com/yuanhe-wuji/projects/486906/docs?directory=0&page=1&program_id=0&scope=root
 
 
 
