@@ -44,6 +44,6 @@ hugo serve -t  hugo-theme-cleanwhite
 
 ### 访问
 
-blog.easycodeforu.com
+easycodeforu.com
 
 
