@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "随便写写"
-subtitle:   "有感而发而已"
-description: "随便写写，想到哪里写到哪里..."
+title:      "学习安排"
+subtitle:   "挖的学习安排..."
+description: "记录每个学期的学习安排..."
 date:    2023-05-28
 author:     "王将"
 image: "/img/istio-install_and_example/post-bg.jpg"
 tags:
     - 随笔
     - education
-URL: "/2023/05/28/casual-notes/"
+URL: "/2023/05/28/kids-education/"
 categories: [ notes ]
 ---
 
